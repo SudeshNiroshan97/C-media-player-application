@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icons8-end-90.png</file>
+        <file>icons/icons8-no-audio-90.png</file>
+        <file>icons/icons8-pause-90.png</file>
+        <file>icons/icons8-play-90.png</file>
+        <file>icons/icons8-playlist-90.png</file>
+        <file>icons/icons8-skip-to-start-90.png</file>
+        <file>icons/icons8-stop-90.png</file>
+        <file>icons/open-archive.png</file>
+        <file>icons/audio-volume.png</file>
+        <file>icons/volume-up-interface-symbol.png</file>
+        <file>icons/full-screen-arrows.png</file>
+        <file>icons/full-screen.png</file>
+        <file>icons/speaker.png</file>
+    </qresource>
+</RCC>
